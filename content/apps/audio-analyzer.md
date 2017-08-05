@@ -5,8 +5,7 @@ menu:
         name: "audio analyzer"
         parent: "apps"
         pre: "fa fa-angle-right"
-date: 2017-08-02T20:18:30+02:00
-draft: true
+date: 2014-02-03T00:00:00+02:00
 ---
 
 **Audio Analyzer** is an audio visualization application which you can use to make listening to music more interesting. It

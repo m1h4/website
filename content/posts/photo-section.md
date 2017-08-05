@@ -1,7 +1,6 @@
 ---
 title: "Photography Section"
-date: 2017-08-02T20:18:30+02:00
-draft: true
+date: 2014-02-16T00:00:00+02:00
 ---
 
 Last week I found some time to add a Photography section to the site. I take lots of photos with my mobile phone and some of them turn out to be

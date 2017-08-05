@@ -5,8 +5,7 @@ menu:
         name: "photos"
         weight: 4
         pre: "fa fa-camera-retro"
-date: 2017-08-02T20:20:36+02:00
-draft: true
+date: 2016-02-09T00:00:00+02:00
 ---
 
 I like taking photos, especially since these days you can have a decent camera at hand all the time. It might be because there’s a scene with a nice combination of colors, other times it might be a chance to do a mini-benchmark for a new phone camera/software feature. So, here are some of my photos that I’ve found interesting for some reason or just looking really nice.

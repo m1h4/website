@@ -5,8 +5,7 @@ menu:
         name: "photo resize"
         parent: "apps"
         pre: "fa fa-angle-right"
-date: 2017-08-02T20:18:30+02:00
-draft: true
+date: 2016-02-09T00:00:00+02:00
 ---
 
 **Photo Resize** is a simple sharing extension for **Android** which helps you send photos via email or

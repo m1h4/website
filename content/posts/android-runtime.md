@@ -1,7 +1,6 @@
 ---
 title: "Android's New Runtime"
-date: 2017-08-02T20:18:30+02:00
-draft: true
+date: 2014-02-16T00:00:00+02:00
 ---
 
 There has been a lot of talk recently about Google’s new **ART** runtime for Android which debuted with the recent **Android 4.4** update.

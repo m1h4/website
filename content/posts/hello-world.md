@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
-date: 2017-08-02T20:18:30+02:00
-draft: true
+date: 2014-02-01T00:00:00+02:00
 ---
 
 I’ve finally taken the time to arrange a dedicated web server and created a more professional and comprehensive website.

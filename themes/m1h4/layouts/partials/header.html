@@ -6,9 +6,9 @@
 <body>
     <header class="banner">
       <div class="container">
-        <a class="brand" href="http://mihasoftware.com/">{{ .Site.Title }}</a>
+        <a class="brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
         {{ partial "nav/main" . }}
     <hr>
-    <span class="tagline">Software Development by Marko Mihovilić</span>
+    <span class="tagline">{{ .Site.Params.tagline }}</span>
     </div>
     </header>

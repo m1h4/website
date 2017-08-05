@@ -6,8 +6,7 @@ menu:
         weight: 3
         identifier: "apps"
         pre: "fa fa-bars"
-date: 2017-08-02T20:20:36+02:00
-draft: true
+date: 2015-05-09T00:00:00+02:00
 ---
 
 Here are some of my applications I’ve found the time to clean-up and package decently enough to feel comfortable about releasing to the public :)

@@ -1,7 +1,6 @@
 ---
 title: "Analyzed for Windows 64-bit"
-date: 2017-08-02T20:18:30+02:00
-draft: true
+date: 2014-05-04T00:00:00+02:00
 ---
 
 I’ve finally dug-up the source-code for the **Analyzed** Windows Media Player plugin from my old Windows PC and managed to

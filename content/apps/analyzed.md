@@ -5,8 +5,7 @@ menu:
         name: "analyzed"
         parent: "apps"
         pre: "fa fa-angle-right"
-date: 2017-08-02T20:18:30+02:00
-draft: true
+date: 2014-05-04T00:00:00+02:00
 ---
 
 Analyzed is a simple plugin for Windows Media Player written to be compact and minimalistic.

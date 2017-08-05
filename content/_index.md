@@ -5,8 +5,7 @@ menu:
         name: "home"
         weight: 1
         pre: "fa fa-dot-circle-o"
-date: 2017-08-02T20:20:36+02:00
-draft: true
+date: 2016-02-09T00:00:00+02:00
 ---
 
 Hello there, you’ve reached my personal website! Nothing too fancy, just your average software developer’s pet project website

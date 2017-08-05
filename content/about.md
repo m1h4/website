@@ -6,7 +6,6 @@ menu:
         weight: 5
         pre: "fa fa-user"
 date: 2017-08-02T20:20:36+02:00
-draft: true
 ---
 
 My name is Marko Mihovilić and I’m a 30-year-old software engineer living and working in [Zagreb](https://www.google.com/maps/place/Zagreb), Croatia (some of you might be looking

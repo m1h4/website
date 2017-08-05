@@ -1,8 +1,10 @@
 baseURL = "http://www.mihasoftware.com"
 languageCode = "en-us"
 title = "Miha Software"
+theme = "m1h4"
 
 [params]
 dateFormat = "January 2, 2006"
 email = "mihovilic@gmail.com"
 copyrightYear = 2017
+tagline = "Software Development by Marko Mihovilić"
