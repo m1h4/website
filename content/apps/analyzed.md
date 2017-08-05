@@ -17,7 +17,7 @@ after you try to close Windows Media Player so I suggest that you [upgrade](http
 
 # Download
 
-[Download Analyzed version 0.6.0](#todo) and start the installation application. The installer should automaticaly detect
+[Download Analyzed version 0.6.0](/downloads/Analyzed.exe) and start the installation application. The installer should automaticaly detect
 the folder in which Windows Media Player is installed and install the plugin into that folder. You should now see a
 new entry called Analyzed when you right click on the Visualization area in Windows Media Player.
 

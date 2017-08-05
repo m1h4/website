@@ -13,7 +13,7 @@ renders various visualizations in accordance to playing sounds.
 
 # Download
 
-[Download Audio Analyzer version 2.7.0](#todo) and extract it using your favorite archiver.
+[Download Audio Analyzer version 2.7.0](/downloads/AudioAnalyzer.zip) and extract it using your favorite archiver.
 
 # Screenshots
 

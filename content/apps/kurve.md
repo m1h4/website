@@ -13,7 +13,7 @@ is to stay alive for as long as you can.
 
 # Download
 
-[Download Kurve version 1.0.0](#todo) and extract it using your favorite archiver.
+[Download Kurve version 1.0.0](/downloads/kurve.zip) and extract it using your favorite archiver.
 
 # Controls
 
