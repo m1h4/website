@@ -21,4 +21,4 @@ Audio visualization application that was a kind of personal research project int
 
 ## [Kurve]({{< relref "apps/kurve.md" >}})
 
-Fun multiplayer game I made to play with my friends, inspired by Achtung, die Kurve.
+Fun multiplayer game I made to play with my friends, inspired by **Achtung, die Kurve**.

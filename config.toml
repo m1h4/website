@@ -1,6 +1,6 @@
 baseURL = "http://m1h4.github.io"
 languageCode = "en-us"
-title = "Miha Software"
+title = "m1h4.github.io"
 theme = "m1h4"
 
 [params]
